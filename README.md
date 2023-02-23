@@ -6,6 +6,7 @@
 - 병합정렬은 큰 범위인 경우에 사용할 것
 
 1. 선택정렬
+[Source Code] (https://github.com/d0ng999/Algorithm/blob/main/Sorting_Method/method1_selectionSort.py)
 - 시간은 약 64ms로 2번째로 빠르고, 메모리는 모두 같은 상황이다. 코드의 길이는 약 412B로 2번쨰로 많은 무난난 정렬인것으로 보인다.
 
 2. 삽입정렬
